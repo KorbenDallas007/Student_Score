@@ -38,12 +38,12 @@ $$ Score = 9.78 \cdot (Hours) + 2.48 $$
 ### 1. Ajuste del Modelo
 La línea de regresión (roja) corta los datos minimizando la distancia cuadrática a los puntos reales.
 
-<img src="images/regresion_lineal.png" alt="Gráfico de Regresión Lineal" width="600"/>
+<img src="images/regresion_lineal.png" alt="Gráfico de Regresión Lineal" width="300"/>
 
 ### 2. Curva de Aprendizaje
 Visualización de cómo el algoritmo de Descenso de Gradiente minimizó el error iteración tras iteración.
 
-<img src="images/curva_costo.png" alt="Curva de Costo" width="600"/>
+<img src="images/curva_costo.png" alt="Curva de Costo" width="300"/>
 
 ## 📉 Evaluación de Métricas
 
